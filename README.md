@@ -21,13 +21,6 @@ Full Stack and GenAI Engineer specializing in building production-ready SaaS app
 
 ---
 
-### 📊 GitHub Stats
-
-![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SnehaChouksey&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaChouksey&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect With Me
 
 * **Portfolio:** [View My Work](https://portfolio-sneha-five.vercel.app/)
