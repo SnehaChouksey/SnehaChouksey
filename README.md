@@ -23,6 +23,6 @@ Full Stack and GenAI Engineer specializing in building production-ready SaaS app
 
 ### 📫 Connect With Me
 
-* **Portfolio:** [View My Work](https://sneha-umber.vercel.app/)
+* **Portfolio:** [View My Work](https://www.snehaa.xyz/)
 * **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/sneha-chouksey-404274287/)
 * **Email:** snehachouksey2403@gmail.com
